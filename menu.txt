@@ -14,3 +14,10 @@ burger 10000 cal 5.99
 veggie bowl 10 cal 5.89
 donut 400 cal 8.99
 kebob 500 cal 9.99
+
+Steak 600 cal 13.99
+sandwich 400 cal 4.99
+
+pizza 3000 cal 9.99
+soup 5 cal 3.99
+steamed dumpling 
